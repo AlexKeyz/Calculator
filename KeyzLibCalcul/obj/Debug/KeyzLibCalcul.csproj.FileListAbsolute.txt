@@ -1,0 +1,12 @@
+C:\Users\Саша\OneDrive\Рабочий стол\C#\SuperCalculatorKeyzerov\KeyzLibCalcul\bin\Debug\KeyzLibCalcul.dll
+C:\Users\Саша\OneDrive\Рабочий стол\C#\SuperCalculatorKeyzerov\KeyzLibCalcul\bin\Debug\KeyzLibCalcul.pdb
+C:\Users\Саша\OneDrive\Рабочий стол\C#\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.csproj.AssemblyReference.cache
+C:\Users\Саша\OneDrive\Рабочий стол\C#\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.csproj.CoreCompileInputs.cache
+C:\Users\Саша\OneDrive\Рабочий стол\C#\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.dll
+C:\Users\Саша\OneDrive\Рабочий стол\C#\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.pdb
+C:\Users\Саша\OneDrive\Рабочий стол\SuperCalculatorKeyzerov\KeyzLibCalcul\bin\Debug\KeyzLibCalcul.dll
+C:\Users\Саша\OneDrive\Рабочий стол\SuperCalculatorKeyzerov\KeyzLibCalcul\bin\Debug\KeyzLibCalcul.pdb
+C:\Users\Саша\OneDrive\Рабочий стол\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.csproj.AssemblyReference.cache
+C:\Users\Саша\OneDrive\Рабочий стол\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.csproj.CoreCompileInputs.cache
+C:\Users\Саша\OneDrive\Рабочий стол\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.dll
+C:\Users\Саша\OneDrive\Рабочий стол\SuperCalculatorKeyzerov\KeyzLibCalcul\obj\Debug\KeyzLibCalcul.pdb

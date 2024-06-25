@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCalculatorKeyzerov", "SuperCalculatorKeyzerov\SuperCalculatorKeyzerov.csproj", "{62894DE2-BFA0-4EDC-95B3-DD1062B4D72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyzLibCalcul", "KeyzLibCalcul\KeyzLibCalcul.csproj", "{A759563E-99F2-4479-B57F-FD8B8BEDBB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyzTest", "KeyzTest\KeyzTest.csproj", "{D78EFFE5-2A2A-4519-B7C7-1DCEE0BBB1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62894DE2-BFA0-4EDC-95B3-DD1062B4D72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62894DE2-BFA0-4EDC-95B3-DD1062B4D72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62894DE2-BFA0-4EDC-95B3-DD1062B4D72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62894DE2-BFA0-4EDC-95B3-DD1062B4D72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A759563E-99F2-4479-B57F-FD8B8BEDBB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A759563E-99F2-4479-B57F-FD8B8BEDBB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A759563E-99F2-4479-B57F-FD8B8BEDBB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A759563E-99F2-4479-B57F-FD8B8BEDBB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78EFFE5-2A2A-4519-B7C7-1DCEE0BBB1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78EFFE5-2A2A-4519-B7C7-1DCEE0BBB1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78EFFE5-2A2A-4519-B7C7-1DCEE0BBB1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78EFFE5-2A2A-4519-B7C7-1DCEE0BBB1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC89D90-2CF8-4C41-978E-6C6A20D4E1EF}
+	EndGlobalSection
+EndGlobal
